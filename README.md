@@ -1,7 +1,7 @@
 # FinanceCalculators
 
 ## Description
-FinanceCalculators is a Python-based project that provides two financial calculators: an investment calculator and a bond calculator. The investment calculator calculates the amount of interest you will earn on your investment over a certain period of time. The bond calculator calculates the amount you will have to pay on your home loan.
+The provided Python code includes two financial calculators: an investment calculator and a bond calculator. The investment calculator calculates the total amount of a given investment after a certain number of years, considering either simple or compound interest. The bond calculator calculates the monthly repayments of a bond given the present value of the house, the interest rate, and the number of months the user plans to repay the bond. The code includes functions to validate user input and ensure that it is either a float or an integer. The user is prompted to choose between the investment and bond calculators, and their choice determines which calculations are performed. If the user enters invalid input at any point, they are informed and asked to try again.
 
 ## Table of Contents
 1. Installation
